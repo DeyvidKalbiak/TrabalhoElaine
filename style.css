@@ -1,0 +1,74 @@
+body{
+    margin: 0px;
+
+    padding: 0px;
+    
+}
+a{
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif; 
+}
+
+h1{
+    text-align: center;
+    color:black ;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
+
+label{
+    display: block;
+    text-align: center;
+    margin-top: 10;
+    margin-bottom: 10px;
+    position: relative;
+    right: 5.6%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color:black;
+    font-weight: bolder;
+}
+
+input{
+    display: block;
+    left: 43%;
+    position: relative;
+    margin-bottom: 10px;
+    padding: 8px;
+    
+    
+}
+
+button{
+    position: relative;
+    left: 43%;
+    margin-top: 10px;
+    padding: 8px;
+    font-family: 'Roboto', sans-serif;
+    width: 191px;
+    font-size: 18px;
+}
+
+.login{
+    display: block ;
+    margin-top: 150px;
+    
+    
+}
+
+#grafico{
+    min-width: 100%;
+}
+
+#info2{
+    min-height: 490.5px;
+}
+#colunas{
+    background-color: #d9d9d9;
+}
+
+#footer{
+    text-align: center;
+    margin-top: 15%;
+}
+
